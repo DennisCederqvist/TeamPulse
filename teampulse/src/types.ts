@@ -1,5 +1,4 @@
 
-
 export type Mood = | "great" | "good" | "okay" | "tired" | "stressed";
 
 export type EnergyLevel = 1 | 2 | 3 | 4 | 5;
