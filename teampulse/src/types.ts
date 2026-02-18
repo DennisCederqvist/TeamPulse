@@ -14,7 +14,7 @@ export interface CheckIn {
 }
 
 export interface DayStats {
-    avarageEnergy: number;
+    averageEnergy: number;
     moodDistribution: Record<Mood, number>;
     totalCheckIns: number;
 }
